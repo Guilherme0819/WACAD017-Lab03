@@ -2,9 +2,10 @@
   "name": "exercicio03",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-    "test": "jest"
-  },
+   "scripts": {
+   "test": "jest --coverage"
+ },
+
   "keywords": [],
   "author": "",
   "license": "ISC",
